@@ -1,4 +1,4 @@
-# Abaixo consta a descrição da API e da proposta original da Santander Dev Week 2023.O Meu Desafio de Projeto está no SantanderDevWeek2023.ipynb
+# Abaixo consta a descrição da API original da Santander Dev Week 2023.O Meu Desafio de Projeto está apenas no SantanderDevWeek2023.ipynb
 
 # Santander Dev Week 2023
 
