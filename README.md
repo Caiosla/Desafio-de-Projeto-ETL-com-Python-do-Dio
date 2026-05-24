@@ -1,3 +1,5 @@
+# Abaixo consta a descrição da API e da proposta original da Santander Dev Week 2023.O Meu Desafio de Projeto está no SantanderDevWeek2023.ipynb
+
 # Santander Dev Week 2023
 
 Java RESTful API criada para a Santander Dev Week.
